@@ -1,0 +1,11 @@
+Files that should be in here from the VST 2.4 API
+
+aeffect.h
+aeffectx.h
+aeffeditor.h
+audioeffect.cpp
+audioeffect.h
+audioeffectx.cpp
+audioeffectx.h
+vstfxstore.h
+vstplugmain.cpp
