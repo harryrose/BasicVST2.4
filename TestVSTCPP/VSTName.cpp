@@ -151,7 +151,7 @@ bool VSTName::getEffectName (char* name)
 
 bool VSTName::getVendorString (char* text)
 {
-	vst_strncpy(text,"$username$ $year$",kVstMaxVendorStrLen);
+	vst_strncpy(text,"VENDORNAME VENDORYEAR",kVstMaxVendorStrLen);
 	return true;
 }
 
